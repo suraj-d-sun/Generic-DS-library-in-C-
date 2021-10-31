@@ -7,6 +7,8 @@ Some might say, why to make this libraries when it is already made in C++ or Jav
 
 This project helped me to understand the basic understanding of Data Structures and how the pre defined classes work in a particular fashion.
 
+We will be keeping the data of the type 'void *'(or more precisely, the address of the data type) in our DS maintained. The reason why we are keeping this kind of data type is, it  will allow us to store any kind of data type available, even custom data type also. While retrieving the data from the DS, we have to perform type casting.
+
 
 
 
